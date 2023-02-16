@@ -1,19 +1,36 @@
 body {  
     min-height: 100vh;
     display: flex;
-    flex-direction: column;}
+    flex-direction: column;
+    max-width: 990px;
+    margin: auto;}
+
+ul {list-style: none;
+    display: flex;
+    gap: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    text-decoration-color: none;}
 
 .header {
     display: flex;
     flex-direction: row;
-    flex: 1;
+    padding-top: 13px;
 }
 
 .header-links {
     display: flex;
-    justify-content: flex-end;
     gap: 8px;
     margin-left: auto;
+
 }
 
 
+.header-logo {
+    font-weight:800;
+    font-size: 18px;
+}
