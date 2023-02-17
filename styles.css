@@ -19,14 +19,14 @@ ul {list-style: none;
 
 a {
     text-decoration: none;
-    text-decoration-color: none;
     text-decoration-style: none;
+    color:#f9faf8;
     }
 
 li {
     text-decoration: none;
     text-decoration-style: none;
-    text-decoration-color: none;
+
 }
 
 .header {
