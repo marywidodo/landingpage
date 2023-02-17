@@ -147,3 +147,54 @@ img {
     justify-content: flex-end;
     font-size: 24px;
 }
+
+/* Styling for Container 4 */
+
+.cta-modal {
+    background-color: #3882F6;
+    border-radius: 7px;
+    max-width: 600px;
+    margin-top: 50px;
+    margin-left: 110px;
+  
+
+}
+
+.cta-content {
+    color:#f9faf8;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1% 10%;
+}
+
+.cta-button {
+    margin-left: auto;
+    align-self: center;
+    
+}
+
+.cta-text {
+    margin-right: auto;
+}
+
+.container-4 {
+    background-color: #f9faf8;
+
+
+
+    
+}
+
+.cta-bold {
+    font-weight: 900;
+    margin-bottom: 5px;
+    font-style: roboto;
+}
+    
+.cta-body {
+    margin-top: 0px;
+    font-style: roboto;
+
+}
