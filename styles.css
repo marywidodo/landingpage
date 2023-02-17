@@ -3,7 +3,9 @@ body {
     display: flex;
     flex-direction: column;
     max-width: 990px;
-    margin: auto;}
+    margin: auto;
+    font-style: roboto;
+    background-color: black;}
 
 ul {list-style: none;
     display: flex;
@@ -14,7 +16,15 @@ ul {list-style: none;
 
 a {
     text-decoration: none;
-    text-decoration-color: none;}
+    text-decoration-color: none;
+    text-decoration-style: none;
+    }
+
+li {
+    text-decoration: none;
+    text-decoration-style: none;
+    text-decoration-color: none;
+}
 
 .header {
     display: flex;
@@ -59,4 +69,17 @@ a {
 .butter-churn {
     height: 300px;
     width: auto;
+}
+
+/* Color Styling for Different Containers */
+
+.container-1 {
+    background-color: #1F2937;
+    color: #f9faf8;
+
+}
+
+h1.hero-text {
+    font-size: 48px;
+    font-style: extra-bold;
 }
