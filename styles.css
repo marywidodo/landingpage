@@ -100,7 +100,7 @@ h1.hero-text {
     background-color: pink;}
 
 .main-card {
-    gap: 15px;
+    gap: 35px;
     flex-direction: row;
     display: flex;
     justify-content: center;
@@ -109,15 +109,18 @@ h1.hero-text {
 }
 
 .card {
-    max-width: 100px;
-    padding: 0;
-    margin: 0;
+    max-width: 125px;
+    
 }
 
 img {
     width: 100px;
     height: 100px;
+}
 
-
-
+.img-container2 {
+    border-radius: 15%;
+    border-width: 3px;
+    border-color: #3882F6;
+    border-style: solid;
 }
