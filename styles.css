@@ -9,6 +9,7 @@ body {
     font-style: roboto;
     background-color: white;
     text-align: center;
+    padding-bottom: 0px;
 }
 
 ul {list-style: none;
@@ -57,7 +58,6 @@ li {
     flex-direction: row;
     justify-content: center;
     margin-top: 85px;
-    margin-bottom: 85px;
 }
 
 .hero-text {
@@ -81,6 +81,7 @@ li {
 .container {
     padding-left: 10%;
     padding-right: 10%;
+    padding-bottom: 80px;
 }
 
 .container-1 {
