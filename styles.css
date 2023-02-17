@@ -120,7 +120,7 @@ h1.hero-text {
 
 img {
     width: 100px;
-    height: 100px;
+    height: 90px;
 }
 
 .img-container2 {
@@ -128,4 +128,22 @@ img {
     border-width: 3px;
     border-color: #3882F6;
     border-style: solid;
+}
+
+/* Styling for Container 3 */
+
+.container-3 {
+    background-color: #E5E7EB;}
+
+.quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.author-quote {
+    font-weight: 800;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 24px;
 }
