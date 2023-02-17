@@ -1,11 +1,14 @@
+
+
 body {  
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    max-width: 990px;
     margin: auto;
+    max-width: 1000px;
     font-style: roboto;
-    background-color: black;}
+    background-color: white;
+}
 
 ul {list-style: none;
     display: flex;
@@ -47,6 +50,7 @@ li {
 
 /* Styling for hero content */
 
+
 .hero-content {
     display: flex;
     flex-direction: row;
@@ -72,6 +76,11 @@ li {
 }
 
 /* Color Styling for Different Containers */
+
+.container {
+    padding-left: 10%;
+    padding-right: 10%;
+}
 
 .container-1 {
     background-color: #1F2937;
