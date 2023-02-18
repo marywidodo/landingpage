@@ -189,12 +189,27 @@ img {
 
 .cta-bold {
     font-weight: 900;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
     font-style: roboto;
 }
     
 .cta-body {
     margin-top: 0px;
     font-style: roboto;
+
+}
+
+
+button {
+    border-color: #f9faf8;
+    background-color: #3882F6;
+    text-decoration: none;
+    border-style: solid;
+    border-radius: 5px;
+    text-align: center;
+    color: #f9faf8;
+    padding: 3px 16px;
+    border-width: 1.5px;
+    font-weight: 700;
 
 }
