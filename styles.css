@@ -213,3 +213,11 @@ button {
     font-weight: 700;
 
 }
+
+.footer {
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #f9faf8;
+    padding: 30px;
+}
