@@ -16,6 +16,14 @@ body {
     text-align: left;
 }
 
+.hero-button {
+background-color: #3882F6;
+border-radius: 5px;
+color:#f9faf8;
+border-color: transparent;
+
+}
+
 ul {list-style: none;
     display: flex;
     gap: 14px;
@@ -102,7 +110,7 @@ h1.hero-text {
 /* Styling for Container 2 */
 
 .container-2 {
-    background-color: pink;}
+    background-color:#f9faf8;}
 
 .main-card {
     gap: 35px;
